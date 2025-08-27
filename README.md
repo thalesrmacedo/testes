@@ -8,3 +8,4 @@ erro de conflict
 
 hotfix hotfix
 main
+thales
